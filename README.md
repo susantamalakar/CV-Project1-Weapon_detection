@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/3b985a4c-305e-47a2-af7d-08c9c6a71274
+
 Description:
 
 This is a small basic computer vision project on weapon detection. In this project, the system will allow you to choose and select an image from your computer and then it will detect if the image has a gun or knife or not. Ff it detects it will highlight it with the label. follow the instructions to implement the system. 
