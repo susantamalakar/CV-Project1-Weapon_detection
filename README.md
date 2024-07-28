@@ -15,3 +15,6 @@ Install the following packages copy and paste the following pip code in your pyc
 pip code:
 
 pip install Jinja2 Markdown MarkupSafe PyYAML Pygments Werkzeug absl-py addict astunparse certifi charset-normalizer colorama contourpy cycler filelock flatbuffers fonttools fsspec gast google-pasta grpcio h5py idna importlib_metadata intel-openmp keras kiwisolver libclang markdown-it-py matplotlib mdurl mkl ml-dtypes mmcv mmdet mmengine mpmath namex networkx numpy opencv-python opt-einsum optree packaging pillow pip platformdirs protobuf pycocotools pyparsing python-dateutil regex requests rich scipy setuptools shapely six sympy tbb tensorboard tensorboard-data-server tensorflow tensorflow-hub tensorflow-intel termcolor terminaltables tf_keras tomli torch torchaudio torchvision tqdm typing_extensions urllib3 wheel wrapt yapf zipp
+
+
+For any query email me at susanta.malakar98@gmail.com / susanta.mala@kmutt.ac.th
